@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "548692553845",
+    "project_id": "employee-management-41838",
+    "storage_bucket": "employee-management-41838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548692553845:android:8cf33ad6473491f0ea083c",
+        "android_client_info": {
+          "package_name": "com.employeemgm.employee_mgm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548692553845-ofm5jghd3ab152dtthp7lp2utrdsd3su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.employeemgm.employee_mgm",
+            "certificate_hash": "7e5743f3168cd497bb9b57df74b8230cd772a34e"
+          }
+        },
+        {
+          "client_id": "548692553845-hjju3gsmqhqr2ce6tlehkdldv324uk6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAe1agm-U-FeEvKdx80H7B5OETwg75dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548692553845-hjju3gsmqhqr2ce6tlehkdldv324uk6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
